@@ -1,0 +1,39 @@
+=Login:	Forgot password	otp
+		
+=Signup:	Email	otp
+	Description
+
+=Admin:	
+
+Profile:
+
+Bootstrap: 
+
+
+
+Problems:
+1. Wrong OTP, One back sign should be added
+	otp can be entered 3 times
+2. password != Confirm Password , create account from the start.
+=3. password Update Mail - dear Tushar, problem in name
+=4. after Posted its stay is create post page but should go to home page.
+=5. One hr line after all nav bar in user -> only available in home page
+=6. if ' is given in description then error come. it should be in try except block + destination + title
+=7. tell the user, there mail is not register or password is wrong. Dont say invalid user id or password
+
+=8. Content Approved from the end 
+
+=9. block-agree --> requested
+=10. down
+=11. approved-block -> syntax change
+
+
+20.07.2021
+
+terms and condition
+=My Profile
+Notification
+Admin Login
+Previous Bug fix
+Search in unchecked.,live, block, suggations
+dont file read or write, try to implement cookies here
